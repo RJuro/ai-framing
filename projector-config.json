@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://github.com/RJuro/ai-framing/raw/main/vecs.tsv",
-      "metadataPath": "https://github.com/RJuro/ai-framing/raw/main/meta.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/RJuro/ai-framing/main/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/RJuro/ai-framing/main/meta.tsv"
     }
   ]
 }
