@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://github.com/RJuro/ai-framing/raw/main/vecs.tsv",
+      "metadataPath": "https://github.com/RJuro/ai-framing/raw/main/meta.tsv"
+    }
+  ]
+}
